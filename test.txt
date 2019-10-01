@@ -1,0 +1,30 @@
+2-6
+2: Check employee list, check JS for payroll generation params
+3: Specs on auxiliary payroll, check account feature specs
+4: Documentation on offcycle, Code review
+5: Ryan assist, payroll calendar, continue reading documentation
+6: Start offcycle UI, Code review
+
+9-13
+9: Minor refactor on notifications, Code review, Start new offcycle payroll view
+10: New offcycle payroll view, sketch endpoints, demo controller spec, Code review
+11: Offcycle payroll listing, port base structure from HAML, refactor helper
+12: Offcycle UI validation, address comments, undo helper refactor, not needed currently, Code review
+13: Address UI comments, start controller flow
+
+16-20
+16: Start specs on offcycle, not currently working. Check chromedriver issues, Code review
+17: Figure out coffeescript code, add control filter, fetch demo payload, tap demo endpoints for now, Code review
+18: Look into spreadsheet generation, add basic spreadsheet generation, figure out payload sizes, add payment templates to new offcycle payroll page
+19: Work out payable date pop up, figure out param passing on employee list, Code review
+20: Start details page, port Slim pieces, discuss HTML generators, discuss JS, clean up
+
+23-27
+23: Continue details page, clean up index, notes on suggestions, check authorization mechanism, add skip for now
+24: Wrap up details page, wrap up integration spec for offcycles, plan improvements on current spec, UI refactor
+25: Fix auxiliary payroll specs, more investigation on chromedriver, UI refactor, Code review
+26: Patch auxiliary payroll spec issues, start proper integration specs on offcycle, UI clean up, Code review
+27: Controller clean up, look into faulty JS
+
+30
+30: Open UI PR, address first comments, port slim code into haml, Code review
